@@ -1,0 +1,21 @@
++---------------------------------+
+|           Funcionario           |
++---------------------------------+
+| - nome: string                  |
+| - cpf: string                   |
+| - codigo: string                |
+| - funcao: string                |
++---------------------------------+
+| + Funcionario()                 |
+| + Funcionario(nome, cpf, codigo, funcao) |
+| + getNome(): string             |
+| + getCPF(): string              |
+| + getCodigo(): string           |
+| + getFuncao(): string           |
+| + setNome(string)               |
+| + setCPF(string)                |
+| + setCodigo(string)             |
+| + setFuncao(string)             |
+| + salvarEmArquivo()             |
+| + exibirInformacoes()           |
++---------------------------------+
