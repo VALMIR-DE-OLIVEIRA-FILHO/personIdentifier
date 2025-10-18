@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.5)
+project(FuncionariosQt)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTORCC ON)
+
+find_package(Qt6 COMPONENTS Widgets REQUIRED)
+
+add_executable(FuncionariosQt
+    main.cpp
+    funcionario.cpp
+    funcionario.h
+    mainwindow.cpp
+    mainwindow.h
+    mainwindow.ui
+)
+
+target_link_libraries(FuncionariosQt Qt6::Widgets)

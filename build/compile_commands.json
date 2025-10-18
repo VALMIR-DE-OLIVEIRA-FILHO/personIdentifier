@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/personIdentifier/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/personIdentifier/build/FuncionarioApp_autogen/include -isystem C:/Qt/6.9.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.3/mingw_64/include -isystem C:/Qt/6.9.3/mingw_64/include/QtCore -isystem C:/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.3/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\FuncionarioApp.dir\\FuncionarioApp_autogen\\mocs_compilation.cpp.obj -c C:\\personIdentifier\\build\\FuncionarioApp_autogen\\mocs_compilation.cpp",
+  "file": "C:\\personIdentifier\\build\\FuncionarioApp_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\FuncionarioApp.dir\\FuncionarioApp_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/personIdentifier/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/personIdentifier/build/FuncionarioApp_autogen/include -isystem C:/Qt/6.9.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.3/mingw_64/include -isystem C:/Qt/6.9.3/mingw_64/include/QtCore -isystem C:/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.3/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\FuncionarioApp.dir\\main.cpp.obj -c C:\\personIdentifier\\main.cpp",
+  "file": "C:\\personIdentifier\\main.cpp",
+  "output": "CMakeFiles\\FuncionarioApp.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/personIdentifier/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/personIdentifier/build/FuncionarioApp_autogen/include -isystem C:/Qt/6.9.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.3/mingw_64/include -isystem C:/Qt/6.9.3/mingw_64/include/QtCore -isystem C:/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.3/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\FuncionarioApp.dir\\mainwindow.cpp.obj -c C:\\personIdentifier\\mainwindow.cpp",
+  "file": "C:\\personIdentifier\\mainwindow.cpp",
+  "output": "CMakeFiles\\FuncionarioApp.dir\\mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/personIdentifier/build",
+  "command": "C:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/personIdentifier/build/FuncionarioApp_autogen/include -isystem C:/Qt/6.9.3/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.3/mingw_64/include -isystem C:/Qt/6.9.3/mingw_64/include/QtCore -isystem C:/Qt/6.9.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.3/mingw_64/include/QtGui -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -o CMakeFiles\\FuncionarioApp.dir\\funcionario.cpp.obj -c C:\\personIdentifier\\funcionario.cpp",
+  "file": "C:\\personIdentifier\\funcionario.cpp",
+  "output": "CMakeFiles\\FuncionarioApp.dir\\funcionario.cpp.obj"
+}
+]

@@ -1,0 +1,11 @@
+# ninja log v6
+31	1103	7825092485246142	build.ninja	2db511008c09b496
+4805	5278	7824391144411994	FuncionarioApp.exe	65cd904c7cf2a31
+65	1254	7824391107884871	FuncionarioApp_autogen/timestamp	e83ff3d74de1aa85
+65	1254	7824391107884871	FuncionarioApp_autogen/mocs_compilation.cpp	e83ff3d74de1aa85
+1286	4803	7824391109188209	CMakeFiles/FuncionarioApp.dir/mainwindow.cpp.obj	5fcdc9eb53ed9575
+65	1254	7824391107884871	C:/personIdentifier/build/FuncionarioApp_autogen/timestamp	e83ff3d74de1aa85
+1275	4674	7824391109110849	CMakeFiles/FuncionarioApp.dir/main.cpp.obj	75b145637b19f553
+65	1254	7824391107884871	C:/personIdentifier/build/FuncionarioApp_autogen/mocs_compilation.cpp	e83ff3d74de1aa85
+1297	4053	7824391109313012	CMakeFiles/FuncionarioApp.dir/funcionario.cpp.obj	1a7fe2acff1b5faf
+1266	4643	7824391108992996	CMakeFiles/FuncionarioApp.dir/FuncionarioApp_autogen/mocs_compilation.cpp.obj	506a77039c6060e1

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/personIdentifier/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
